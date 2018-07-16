@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "minimist": "1.2.0",
-    "rw": "1.3.3"
+    "rw": "1.3.3",
     "strxml": "mapbox/strxml",
     "xml-escape": "^1.1.0"
   }
